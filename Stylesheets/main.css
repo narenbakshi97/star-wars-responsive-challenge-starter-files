@@ -1,0 +1,37 @@
+h1,h3{
+  margin:5px;
+}
+*{
+  font-family: "Roboto";
+}
+h1{
+  display:inline-block;
+}
+nav{
+  background-color: #f0bd35;
+  width: 100%;
+  padding:10px;
+}
+main {
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+img{
+  width:100%;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  border:1.5px solid #ddd;
+}
+
+div p, div h3{
+  padding:0 20px;
+}
+div p{
+  font-weight: 500;
+}
